@@ -1,0 +1,6 @@
+framework module Pods_AudioRecordingTest {
+  umbrella header "Pods-AudioRecordingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
